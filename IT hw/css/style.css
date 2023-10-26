@@ -1,0 +1,56 @@
+/* .header{
+    height: 100px;
+    background-color: red;
+}
+
+
+.blog{
+    width:65%
+    height: 200px;
+    background-color:double-button
+} */
+
+
+.navbar{
+
+}
+
+.container{
+
+    overflow: hidden;
+    .box{
+        width:33%;
+        height:150px;
+        float: left;
+    }
+    .pink{
+        background-color: deeppink;
+    }
+    .teal{
+        background-color: teal;
+    }
+    .aqua{
+        background-color: aqua;
+    }
+
+}
+
+.list{
+
+    text-align: center;
+    padding: 10%;
+
+}
+
+
+.map{
+    width:30%;
+    height:300px;
+    float: right;
+}
+
+.video{
+    width: 560px;
+    height: 315px;
+}
+
